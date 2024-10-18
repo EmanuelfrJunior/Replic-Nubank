@@ -1,0 +1,23 @@
+span{
+    color:blueviolet
+    
+}
+
+.NuColor{
+    color:blueviolet
+}
+
+img{
+    width: 200px;
+    height: 50px
+}
+
+.separar{
+    margin-left: 300px
+}
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
